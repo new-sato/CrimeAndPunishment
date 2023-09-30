@@ -1,0 +1,11 @@
+PWD c:/Users/satou/OneDrive/ドキュメント/趣味/CrimeAndPunishment/tex
+INPUT c:/texlive/2023/texmf.cnf
+INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2023/texmf-var/web2c/euptex/uplatex.fmt
+INPUT c:/Users/satou/OneDrive/ドキュメント/趣味/CrimeAndPunishment/tex/罪と罰.tex
+OUTPUT 罪と罰.log
+INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tbook.cls
+INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tbook.cls
+INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tbk10.clo
+INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tbk10.clo
+INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tbk10.clo

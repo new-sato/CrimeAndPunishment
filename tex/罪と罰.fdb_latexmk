@@ -1,0 +1,20 @@
+# Fdb version 4
+["dvipdf"] 0 "罪と罰.dvi" "罪と罰.pdf" "罪と罰" 0 -1
+  "罪と罰.dvi" 0 -1 0 "latex"
+  (generated)
+  "罪と罰.pdf"
+  (rewritten before read)
+["latex"] 1696056104 "c:/Users/satou/OneDrive/ドキュメント/趣味/CrimeAndPunishment/tex/罪と罰.tex" "罪と罰.dvi" "罪と罰" 1696056104 2
+  "c:/Users/satou/OneDrive/ドキュメント/趣味/CrimeAndPunishment/tex/罪と罰.tex" 1696056102 217 953b61353a296ab68670f04cd967431c ""
+  "c:/texlive/2023/texmf-dist/tex/platex/base/tbk10.clo" 1691140751 8708 004f3ec69ed805ee25d2fe8499da7274 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/base/tbook.cls" 1691140751 29312 2d5968af747715070f802abaf10d4cd8 ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1691134749 40967 d940221f8762fd5848760382d97d1226 ""
+  "c:/texlive/2023/texmf-var/web2c/euptex/uplatex.fmt" 1691143372 8106327 29ba661151d961829ce917d4e4447f7f ""
+  "c:/texlive/2023/texmf.cnf" 1691143240 713 e69b156964470283e0530f5060668171 ""
+  "罪と罰.aux" 1696056104 34 3985256e7290058c681f74d7a3565a19 "latex"
+  "罪と罰.tex" 1696056102 217 953b61353a296ab68670f04cd967431c ""
+  (generated)
+  "罪と罰.aux"
+  "罪と罰.dvi"
+  "罪と罰.log"
+  (rewritten before read)
